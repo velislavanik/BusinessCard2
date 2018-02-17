@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Landis Tour Operator</string>
+    <string name="site">www.landis.bg</string>
+    <string name="hours1">Opening hours:</string>
+    <string name="hours2"> Monday-Friday: 9:00am – 6:00pm (EET)</string>
+    <string name="phone">+359 56 843 129</string>
+    <string name="text">Landis Ltd. is a leading Bulgarian incoming tour operator established in 1997. We specialize in individual and group travel to the South Bulgaria Black Sea coast. </string>
+</resources>
